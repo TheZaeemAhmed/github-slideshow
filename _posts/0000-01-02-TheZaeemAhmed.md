@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: **"Do or die."**
+title:"Do or die."
 
 ---
 
